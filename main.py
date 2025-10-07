@@ -1,5 +1,4 @@
 print("Salut")
 print("salut, git")
 print(' @_@ ')
-print("adina")
-print('alo')
+print("andreea")
