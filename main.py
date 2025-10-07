@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print("Hello HElloHello HElloHello HElloHello HElloHello HElloHello HElloHello HEllo")
     print("Opris Claudiu-Daniel -Bunaaaaa")
     print("test Moraru Mihai Andrei")
+    print('Buna ziua')
