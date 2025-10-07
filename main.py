@@ -6,4 +6,4 @@ if __name__ == '__main__':
     print("hi, git!")
     print("Hello HElloHello HElloHello HElloHello HElloHello HElloHello HElloHello HEllo")
     print("Opris Claudiu-Daniel -Bunaaaaa")
-    print("test Moraru Mihai Andrei.")
+    print("test Moraru Mihai Andrei")
