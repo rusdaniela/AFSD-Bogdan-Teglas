@@ -5,4 +5,5 @@ if __name__ == '__main__':
     print("Te pup Miro")
     print("hi, git!")
     print("Hello HElloHello HElloHello HElloHello HElloHello HElloHello HElloHello HEllo")
+    print("Opris Claudiu-Daniel -Bunaaaaa")
     print("test Moraru Mihai Andrei.")
