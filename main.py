@@ -1,6 +1,7 @@
 print("Salut")
 print("salut, git")
 print(' @_@ ')
+print("andreea")
 print("adina")
 print('alo')
 print(' V-V ')
