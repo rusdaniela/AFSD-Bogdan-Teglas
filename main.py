@@ -1,6 +1,5 @@
 if __name__ == '__main__':
     print("Hello, World!?!")
     print("Hello, World!?!")
-    print("hi, git!")   
-    print("Hello HElloHello HElloHello HElloHello HElloHello HElloHello HElloHello HEllo")
-    print("Opris Claudiu-Daniel -Bunaaaaa")
+    print("hi, git!")
+    print("RADU ")
